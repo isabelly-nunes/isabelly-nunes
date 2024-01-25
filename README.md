@@ -1,6 +1,6 @@
 ## Bem-vindo ao meu perfil! 👋
 
-Sou estudante de Ciência de Dados no Centro Universitário Internacional, com formação em Analista de Dados pela Alura. Além disso, tenho explorado as linguagens JavaScript, HTML e CSS. Tenho paixão por aprender.
+Sou estudante de Ciência de Dados no Centro Universitário Internacional e da formação em Analista de Dados pela Alura. Além disso, tenho explorado as linguagens JavaScript, HTML e CSS. Tenho paixão por aprender.
 
 Atualmente, trabalho como Analista de WFM Jr na Teleperformance.
 
